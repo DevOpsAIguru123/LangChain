@@ -1,5 +1,3 @@
-# LangChain
-
 # Speech Generator
 
 A powerful web application that generates and converts text to speech using LangChain and OpenAI's APIs. This application allows users to generate speeches from topics, input custom text, or upload documents, and then convert them to natural-sounding audio.
